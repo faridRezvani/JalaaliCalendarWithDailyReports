@@ -74,7 +74,7 @@
 
 ## پیش‌نمایش
 
-![پیش‌نمایش تقویم](calendar-preview.png)
+![پیش‌نمایش تقویم](https://i.ibb.co/GTx2KBS/Screenshot-2024-09-25-181345.png)
 
 ## مشارکت
 
